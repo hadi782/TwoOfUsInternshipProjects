@@ -1,5 +1,5 @@
-﻿# TwoOfUsInternshipProjects
-Here I will have the MERN stack projects I have done during my Internships.   
+﻿# Two Of Us Internship MERN Projects
+ 
 The projects are:
 1. Password Generator
    
